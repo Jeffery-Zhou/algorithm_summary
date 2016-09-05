@@ -26,7 +26,7 @@ print prime_solve_1(10)
 
 def prime_solve_2(n):
     """
-    solution:
+    solution:类似于第一种,当n被小于sqrt(n)整除时,会根据sqrt(n)删除它的倍数
     :param n:
     :return:
     """
