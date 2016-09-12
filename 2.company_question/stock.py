@@ -8,6 +8,7 @@
 返回：87
 """
 
+
 class Stock:
     def maxProfit(self, prices, n):
         pass
